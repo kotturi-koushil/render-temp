@@ -56,7 +56,7 @@ import joblib
 from flask import Flask, render_template, request
 
 model = joblib.load(
-    r"C:\Users\shashank\Downloads\MajorFinal(Heart Disease Prediction)\HeartDisease\major_finalModel4.pkl"
+    r"major_finalModel4.pkl"
 )
 
 
