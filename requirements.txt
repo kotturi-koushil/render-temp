@@ -84,4 +84,3 @@ sgmllib3k==1.0.0
 silpa-common==0.3
 virtualenv==20.24.5
 virtualenv-api==2.1.18
-visions==0.7.5
